@@ -1,0 +1,291 @@
+   input:  They do not!
+  output:  They do to!
+  input:  I hope so.
+  output:  She okay?
+  input:  Let's go.
+  output:  Wow
+  input:  Okay -- you're gonna need to learn how to lie.
+  output:  No
+   input:  I'm kidding.  You know how sometimes you just become this "persona"?  And you don't know how to quit?
+  input:  Like my fear of wearing pastels?
+  output:  The "real you".
+   input:  What good stuff?
+  output:  I figured you'd get to the good stuff eventually.
+   output:  Thank God!  If I had to hear one more story about your coiffure...
+   input:  Me.  This endless ...blonde babble. I'm like, boring myself.
+   output:  What crap?
+   input:  do you listen to this crap?
+   output:  No...
+   input:  Then Guillermo says, "If you go any lighter, you're gonna look like an extra on 90210."
+   output:  You always been this selfish?
+   input:  But
+   output:  Then that's all you had to say.
+   input:  Well, no...
+   output:  You never wanted to go out with 'me, did you?
+   input:  I was?
+   output:  I looked for you back at the party, but you always seemed to be "occupied".
+   input:  Tons
+   output:  Have fun tonight?
+   output:  I believe we share an art instructor
+   input:  You know output:?
+   output:  Looks like things worked out tonight, huh?
+   input:  Hi.
+   input:  Who knows?  All I've ever heard her say is that she'd dip before dating a guy that smokes.
+  output:  So that's the kind of guy she likes? Pretty ones?
+   input:  Lesbian?  No. I found a picture of Jared Leto in one of her drawers, so I'm pretty sure she's not harboring same-sex tendencies.
+   output:  She's not a...
+   output:  I'm workin' on it. But she doesn't seem to be goin' for him.
+   input:  I really, really, really wanna go, but I can't.  Not unless my sister goes.
+   output:  Sure have.
+  input:  Eber's Deep Conditioner every two days. And I never, ever use a blowdryer without the diffuser attachment.
+   output:  How do you get your hair to look like that?
+   input:  You're sweet.
+   output:  You have my word.  As a gentleman
+   input:  I counted on you to help my cause. You and that thug are obviously failing. Aren't we ever going on our date?
+  output:  You got something on your mind?
+   input:  Where?
+   output:  There.
+   output:  Well, there's someone I think might be --
+   input:  How is our little Find the Wench A Date plan progressing?
+   input:  Forget French.
+  output:  That's because it's such a nice one.
+   input:  I don't want to know how to say that though.  I want to know useful things. Like where the good stores are.  How much does champagne cost?  Stuff like Chat.  I have never in my life had to point out my head to someone.
+   output:  Right.  See?  You're ready for the quiz.
+   input:  C'esc ma tete. This is my head
+   output:  Let me see what I can do.
+ input:  Gosh, if only we could find Kat a boyfriend...
+    output:  That's a shame.
+   input:  Unsolved mystery.  She used to be really popular when she started high school, then it was just like she got sick of it or something.
+  output:  Why?
+  output:  Seems like she could get a date easy enough...
+  input:  The thing is, output: -- I'm at the mercy of a particularly hideous breed of loser.  My sister.  I can't date until she does.
+  output:  output:.
+  input:  No, no, it's my fault -- we didn't have a proper introduction ---
+  output:  Forget it.
+  input:  You're asking me out.  That's so cute. What's your name again?
+  output:  Okay... then how 'bout we try out some French cuisine.  Saturday?  Night?
+  input:  Not the hacking and gagging and spitting part.  Please.
+  output:  Well, I thought we'd start with pronunciation, if that's okay with you.
+  input:  Can we make this quick?  Roxanne Korrine and Andrew Barrett are having an incredibly horrendous public break- up on the quad.  Again.
+  output:  I did.
+   :  You think you ' re the only sophomore at the prom?
+   output:  I don't have to be home 'til two.
+  input:  I have to be home in twenty minutes.
+   output:  All I know is -- I'd give up my private line to go out with a guy like Joey.
+  input:  Sometimes I wonder if the guys we're supposed to want to go out with are the ones we actually want to go out with, you know?
+   output:  input:, I don't think the highlights of dating Joey Dorsey are going to include door-opening and coat-holding.
+  input:  Combination.  I don't know -- I thought he'd be different.  More of a gentleman...
+   output:  Is he oily or dry?
+  input:  He practically proposed when he found out we had the same dermatologist. I mean. Dr. Bonchowski is great an all, but he's not exactly relevant party conversation.
+  input:  Would you mind getting me a drink, output:?
+   output:  Great
+  input:  Joey.
+   output:  Who?
+  input:  Where did he go?  He was just here.
+ input:  You might wanna think about it
+  output:  No.
+ input:  Did you change your hair?
+  input:  You know the deal.  I can ' t go if Kat doesn't go --
+   JOEY  Listen, I want to talk to you about the prom.
+   JOEY  You're concentrating awfully hard considering it's gym class.
+  input:  Hi, Joey.
+   JOEY  Hey, sweet cheeks.
+   JOEY  My agent says I've got a good shot at being the Prada guy next year.
+  input:  Neat...
+   JOEY  It's a gay cruise line, but I'll be, like, wearing a uniform and stuff.
+  input:  Queen Harry?
+   JOEY  So yeah, I've got the Sears catalog thing going -- and the tube sock gig " that's gonna be huge.  And then I'm up for an ad for Queen Harry next week.
+  input:  Hopefully.
+   JOEY  Exactly  So, you going to Bogey Lowenbrau's thing on Saturday?
+  input:  Expensive?
+   JOEY  It's more
+    KAT  Perm?
+   input:  Patrick -- is that- a.
+    KAT  It's just you.
+   input:  Is that woman a complete fruit-loop or is it just me?
+   input:  No! I just wanted
+    KAT  What? To completely damage me?  To send me to therapy forever? What?
+   input:  I just wanted --
+    KAT  You set me up.
+   input:  Let go!
+   KAT  So did you
+  input:  You looked beautiful last night, you know.
+  input:  I guess I'll never know, will I?
+   KAT  Not all experiences are good, input:. You can't always trust the people you want to.
+  input:  God, you're just like him! Just keep me locked away in the dark, so I can't experience anything for myself
+   KAT  I guess I thought I was protecting you.
+  input:  I'm not stupid enough to repeat your mistakes.
+   KAT  That's not
+  input:  No. you didn't!  If you really thought I could make my own decisions, you would've let me go out with him instead of helping Daddy hold me hostage.
+   KAT  I wanted to let you make up your own mind about him.
+  input:  Why didn't you tell me?
+   KAT  After that, I swore I'd never do anything just because "everyone else" was doing it.  And I haven't since. Except for Bogey's party, and my stunning gastro-intestinal display --
+  input:  But
+   KAT  Just once.  Afterwards, I told him I didn't want to anymore.  I wasn't ready. He got pissed.  Then he broke up with me.
+  input:  You did what?
+   KAT  He said everyone was doing it.  So I did it.
+  input:  As in...
+   KAT  Now I do.  Back then, was a different story.
+  input:  But you hate Joey
+   KAT  He was, like, a total babe
+  input:  Why?
+   KAT  In 9th.  For a month
+  input:  What?
+   KAT  Joey never told you we went out, did he?
+  input:  I wish I had that luxury. I'm the only sophomore that got asked to the prom and I can't go, because you won ' t.
+   KAT  I do care. But I'm a firm believer in doing something for your own reasons, not someone else ' s .
+  input:  Like you care.
+   KAT  Listen, I know you hate having to sit home because I'm not Susie High School.
+   KAT  You're welcome.
+  input:  I don't get you.  You act like you're too good for any of this, and then you go totally apeshit when you get here.
+  input:  I really don't think I need any social advice from you right now.
+   KAT  input:, I need to talk to you -- I need to tell you --
+   KAT  Can we go now?
+  input:  You are so completely unbalanced.
+  input:  Yeah, he's your freak friend Mandella's boyfriend.  I guess since I'm not allowed to go out, I should obsess over a dead guy, too.
+   KAT  It's Shakespeare.  Maybe you've heard of him?
+  input:  Like I'm supposed to know what that even means.
+   KAT  At least I'm not a clouted fen- sucked hedge-pig.
+  input:  Can't you forget for just one night that you're completely wretched?
+  input:  Bogey Lowenstein's party is normal, but you're too busy listening to Bitches Who Need Prozac to know that.
+   KAT  What's normal?
+  input:  You're ruining my life'  Because you won't be normal, I can't be normal.
+  input:  I think you're a freak.  I think you do this to torture me.  And I think you suck.
+   KAT  What do you think?
+  input:  Oh, I thought you might have a date  I don't know why I'm bothering to ask, but are you going to Bogey Lowenstein's party Saturday night?
+   KAT  It means that Gigglepuss is playing at Club Skunk and we're going.
+  input:  Oh my God, does this mean you're becoming normal?
+  input:  Can you at least start wearing a bra?
+   KAT  I have the potential to smack the crap out of you if you don't get out of my way.
+  input:  Nowhere... Hi, Daddy.
+   KAT  Where've you been?
+  input:  I have a date, Daddy.  And he ' s not a captain of oppression like some men we know.
+   WALTER  I'm missing something.
+  input:  Fine.  I see that I'm a prisoner in my own house.  I'm not a daughter. I'm a possession!
+   WALTER  You're not going unless your sister goes.  End of story.
+  input:  He's not a "hot rod".  Whatever that is.
+   WALTER  It's that hot rod Joey, right? That ' s who you want me to bend my rules for?
+  input:  No, but
+   WALTER  The prom?  Kat has a date?
+  input:  Daddy, I want to discuss the prom with you. It's tomorrow night --
+   WALTER  Because she'll scare them away.
+  input:  Why?
+   WALTER  Promise me you won't talk to any boys unless your sister is present.
+   WALTER  Just for a minute
+  input:  Daddy, no!
+   WALTER  Wear the belly before you go.
+  input:  It's just a party. Daddy.
+   WALTER  Oh, God.  It's starting.
+   WALTER  If Kat's not going, you're not going.
+  input:  Daddy, people expect me to be there!
+  input:  It's just a party. Daddy, but I knew you'd forbid me to go since "Gloria Steinem" over there isn't going --
+   WALTER  Otherwise known as an orgy?
+  input:  If you must know, we were attempting to go to a small study group of friends.
+   WALTER  And where're you going?
+  input:  Daddy, I --
+   WALTER  Exactly my point
+  input:  But she doesn't want to date.
+  input:  But it's not fair -- she's a mutant, Daddy!
+   WALTER  Then neither will you.  And I'll get to sleep at night.
+  input:  What if she never starts dating?
+   WALTER  No! You're not dating until your sister starts dating.  End of discussion.
+  input:  Now don't get upset. Daddy, but there's this boy... and I think he might ask...
+   BRUCE  Just sent 'em through.
+  PATRICK  Padua girls.  One tall, decent body. The other one kinda short and undersexed?
+   BRUCE  Never
+  PATRICK  Fan of a fan.  You see a couple of minors come in?
+   BRUCE  Didn't have you pegged for a Gigglepuss fan.  Aren't they a little too pre-teen belly-button ring for you?
+  PATRICK  Always a pleasure, Brucie.
+ MICHAEL  Best case scenario, you're back on the payroll for awhile.
+  output:  You humiliated the woman! Sacrifice yourself on the altar of dignity and even the score.
+  output:  No, I ' m not.
+ MICHAEL  Buttholus extremus.  But hey, you're making progress.
+  output:  The hell is that?  What kind of 'guy just picks up a girl and carries her away while you're talking to her?
+ MICHAEL  Extremely unfortunate maneuver.
+  output:  Hell, I've just been going over the whole thing in my head and -
+ MICHAEL  You told me that part already.
+  output:  It's her favorite band.
+ MICHAEL  Assail your ears for one night.
+  output:  Okay!  I wasn't sure
+ MICHAEL  He's pretty!
+ MICHAEL  Dead at forty-one.
+  output:  Her favorite uncle
+ MICHAEL  It's a lung cancer issue
+  output:  Number one.  She hates smokers
+ MICHAEL  Are you kidding?  He'll piss himself with joy.  He's the ultimate kiss ass.
+  output:  Will Bogey get bent?
+ MICHAEL  In that case, we'll need to make it a school-wide blow out.
+  output:  This is it.  A golden opportunity. Patrick can ask Katarina to the party.
+ MICHAEL  Like we had a choice?  Besides -- when you let the enemy think he's orchestrating the battle, you're in a position of power. We let him pretend he's calling the shots, and while he's busy setting up the plan, you have time to woo input:.
+  output:  You got him involved?
+ MICHAEL  Hey -- I've gotta have a few clients when I get to Wall Street.
+  output:  I thought you hated those people.
+ MICHAEL  You know, if you do go out with input:, you'd be set.  You'd outrank everyone. Strictly A-list.  With me by your side.
+  output:  That's what I just said
+ MICHAEL  Did she actually say she'd go out with you?
+  output:  Forget his reputation.  Do you think we've got a plan or not?
+ MICHAEL  I'm serious, man, he's whacked.  He sold his own liver on the black market so he could buy new speakers.
+  output:  They always let felons sit in on Honors Biology?
+ MICHAEL  No kidding.  He's a criminal.  I heard he lit a state trooper on fire.  He just got out of Alcatraz...
+  output:  He seems like he thrives on danger
+ MICHAEL  What makes you think he'll do it?
+ MICHAEL  You wanna go out with him?
+  output:  What about him?
+ MICHAEL  Unlikely, but even so, she still can't go out with you.  So what's the point?
+  output:  I teach her French, get to know her, dazzle her with charm and she falls in love with me.
+ MICHAEL  The mewling, rampalian wretch herself.
+  output:  That's her?  input:'s sister?
+ MICHAEL  Yeah, just a minor encounter with the shrew.
+ MICHAEL  You could consecrate with her, my friend.
+  output:  You mean I'd get a chance to talk to her?
+ MICHAEL  Guess who just signed up for a tutor?
+  output:  Sure do ... my Mom's from Canada
+ MICHAEL  You know French?
+ MICHAEL  Joey Dorsey?  Perma-shit-grin.  I wish I could say he's a moron, but he's number twelve in the class.  And a model.  Mostly regional stuff, but he's rumored to have a big tube sock ad coming out.
+  output:  He always have that shit-eating grin?
+ MICHAEL  Because they're bred to.  Their mothers liked guys like that, and their grandmothers before them. Their gene pool is rarely diluted.
+  output:  Why do girls like that always like guys like that?
+MICHAEL  I could start with your haircut, but it doesn't matter.  She's not allowed to date until her older sister does.  And that's an impossibility.
+ output:  Why not?
+MICHAEL  input: Stratford.  Sophomore. Don't even think about it
+ output:  Who is she?
+MICHAEL  You burn, you pine, you perish?
+ output:  That girl -- I --
+MICHAEL  Yeah, but these guys have never seen a horse.  They just jack off to Clint Eastwood.
+ output:  That I'm used to.
+MICHAEL  Couple thousand. Most of them evil
+ output:  How many people go here?
+MICHAEL  Get out!
+ output:  Thirty-two.
+MICHAEL  How many people were in your old school?
+ output:  Yeah.  A couple.  We're outnumbered by the cows, though.
+MICHAEL  I was kidding. People actually live there?
+ output:  North, actually.  How'd you   ?
+MICHAEL  So -- which Dakota you from?
+MICHAEL  C'mon.  I'm supposed to give you the tour.
+ output:  So they tell me...
+MICHAEL  You the new guy?
+   output:  You get the girl.
+   PATRICK  What's the worst?
+   PATRICK  Where?
+   output:  She kissed me.
+   PATRICK  You makin' any headway?
+   PATRICK  She just needs time to cool off I'll give it a day.
+   output:  She hates you with the fire of a thousand suns .  That's a direct quote
+   PATRICK  I don ' t know.  I decided not to nail her when she was too drunk to remember it.
+   output:  What'd you do to her?
+   PATRICK  Then, go get her
+   output:  Sure
+   PATRICK  output: -- do you like the girl?
+   output:  She's partial to Joey, not me
+   PATRICK  What 're you talking about?
+   output:  It's off. The whole thing.
+   PATRICK  output:, I'm a little busy
+   PATRICK  Don't make me do it, man
+   output:  Gigglepuss is playing there tomorrow night.
+   PATRICK  So what does that give me?  I'm supposed to buy her some noodles and a book and sit around listening to chicks who can't play their instruments?
+   output:  Okay -- Likes:  Thai food, feminist prose, and "angry, stinky girl music of the indie-rock persuasion".
+   output:  I've retrieved certain pieces of information on Miss Katarina Stratford I think you'll find helpful.
+   PATRICK  What've you got for me?
+   PATRICK  Yeah -- we'll see.
+   output:  And he means that strictly in a non- prison-movie type of way.
